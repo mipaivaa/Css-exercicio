@@ -1,0 +1,29 @@
+
+body{
+    
+    font-size:medium;
+    text-align: center;
+   }
+    
+    
+    h1{
+       color:rgb(58, 50, 50) 
+    }
+    
+    h2{
+        color:rgb(77, 74, 74);
+        text-decoration: underline;
+    }
+    .titulo-texto{
+    text-decoration: underline;
+    color:rgb(169, 157, 157);
+    }
+    .comentario{
+        color:red;
+    }
+
+    html{
+    
+    background-image: url(https://media.istockphoto.com/id/1400339051/pt/foto/white-watercolor-paper-canvas-texture-background.jpg?s=612x612&w=0&k=20&c=ZEkpRk2jQa0k6JCFbub7X5uNBgy_BOmdo9GL7muKwSA=)
+
+    }
